@@ -1,4 +1,4 @@
-# Knowledge Distillation Through Time Enables Hierarchial Predictive Coding#
+# Knowledge Distillation Through Time Enables Hierarchial Predictive Coding #
 
 ## Requirements ## 
 
